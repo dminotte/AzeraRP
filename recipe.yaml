@@ -14,7 +14,7 @@ tasks:
   
   # Download and prepare server.cfg / loadingscreen / database
   - action: download_github
-    src: https://github.com/tabarra/PlumeESX-recipe
+    src: https://github.com/dminotte/AzeraRP
     ref: main
     dest: ./tmp/azera_esx
 
