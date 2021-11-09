@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author 'PlumeESX'
+author 'AzeraESX'
 description 'Default spawnpoint at the job center.'
 version '1.0.0'
 
